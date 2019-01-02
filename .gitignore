@@ -1,0 +1,4 @@
+portainer_data/
+*.env
+*.envrc
+*.swp
